@@ -96,22 +96,15 @@ TW
 
 本仓库直播源订阅地址自己复制一下可以食用：
 
-随缘更新.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.m3u
-
-随缘更新.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.m3u8
-
-随缘更新.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.m3u8
-
-随缘更新.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.m3u
 
 正常维护.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
 
 正常维护.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
 
-正常维护.https://agit.ai/sew/m/raw/branch/master/kk.txt
+正常维护.https://fastraw.ixnic.net/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
 
-正常维护.https://agit.ai/sew/m/raw/branch/master/l.txt
+正常维护.https://fastraw.ixnic.net/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
 
-正常维护.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
+正常维护.https://cdn.jsdelivr.us/gh/asdjkl6/tv@tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/kk.txt
 
-正常维护.https://raw.fgit.cf/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
+正常维护.https://cdn.jsdelivr.us/gh/asdjkl6/tv@tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/l.txt
