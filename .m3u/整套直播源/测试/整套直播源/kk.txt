@@ -1,22 +1,186 @@
+🇨🇳 央/视,#genre#,
+CCTV-1,http://58.252.12.164:8000/udp/239.77.1.17:5146
+CCTV-1,http://58.252.12.164:8000/udp/239.77.1.144:5146
+CCTV-1,http://58.252.12.164:8000/udp/239.77.0.86:5146
+CCTV-1,http://58.252.12.164:8000/udp/239.77.0.129:5146
+CCTV-2,http://58.252.12.164:8000/udp/239.77.1.158:5146
+CCTV-2 ,http://58.252.12.164:8000/udp/239.253.43.17:5146
+CCTV-2,http://58.252.12.164:8000/udp/239.77.0.137:5146
+CCTV-3,http://58.252.12.164:8000/udp/239.77.0.169:5146
+CCTV-3,http://58.252.12.164:8000/udp/239.77.0.175:5146
+CCTV-4,http://58.252.12.164:8000/udp/239.77.1.163:5146
+CCTV-4,http://58.252.12.164:8000/udp/239.77.1.166:5146
+CCTV-4,http://58.252.12.164:8000/udp/239.77.0.78:5146
+CCTV-5,http://58.252.12.164:8000/udp/239.77.0.170:5146
+CCTV-5,http://58.252.12.164:8000/udp/239.77.0.177:5146
+CCTV-5+,http://58.252.12.164:8000/udp/239.77.0.87:5146
+CCTV-5+,http://58.252.12.164:8000/udp/239.77.1.31:5146
+CCTV-5+,http://58.252.12.164:8000/udp/239.77.1.147:5146
+CCTV-6,http://58.252.12.164:8000/udp/239.77.0.171:5146
+CCTV-6,http://58.252.12.164:8000/udp/239.77.0.178:5146
+CCTV-7,http://58.252.12.164:8000/udp/239.77.1.159:5146
+CCTV-7,http://58.252.12.164:8000/udp/239.77.1.167:5146
+CCTV-7,http://58.252.12.164:8000/udp/239.77.0.138:5146
+CCTV-8,http://58.252.12.164:8000/udp/239.77.0.172:5146
+CCTV-8,http://58.252.12.164:8000/udp/239.77.0.181:5146
+CCTV-9,http://58.252.12.164:8000/udp/239.77.1.160:5146
+CCTV-9,http://58.252.12.164:8000/udp/239.77.1.168:5146
+CCTV-9,http://58.252.12.164:8000/udp/239.77.0.135:5146
+CCTV-10,http://58.252.12.164:8000/udp/239.77.1.113:5146
+CCTV-10,http://58.252.12.164:8000/udp/239.77.1.169:5146
+CCTV-10,http://58.252.12.164:8000/udp/239.77.0.134:5146
+CCTV-11,http://58.252.12.164:8000/udp/239.77.1.238:5146
+CCTV-12,http://58.252.12.164:8000/udp/239.77.1.109:5146
+CCTV-12,http://58.252.12.164:8000/udp/239.77.1.170:5146
+CCTV-12,http://58.252.12.164:8000/udp/239.77.0.136:5146
+CCTV-13,http://58.252.12.164:8000/udp/239.77.0.188:5146
+CCTV-13,http://58.252.12.164:8000/udp/239.253.43.196:5146
+CCTV-14,http://58.252.12.164:8000/udp/239.77.1.161:5146
+CCTV-14,http://58.252.12.164:8000/udp/239.77.1.171:5146
+CCTV-14,http:/https://m.baidu.com/video/page?pd=video_page&nid=2105239093733841910&sign=8989928404858582608&word=%E4%BD%A0%E7%89%9B%E4%BB%80%E4%B9%88%E7%89%9Bdj%E7%89%88&oword=%E4%BD%A0%E7%89%9B%E4%BB%80%E4%B9%88%E7%89%9Bdj%E7%89%88&atn=index&frsrcid=48304&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&fr0=A&fr1=A&ms=1&lid=11492425148345508737&referlid=11492425148345508737&frorder=2&_t=1716989659342/58.252.12.164:8000/udp/239.77.0.133:5146
+CCTV-15,http://58.252.12.164:8000/udp/239.77.1.239:5146
+CCTV-16,http://58.252.12.164:8000/udp/239.77.0.165:5146
+CCTV-16,http://58.252.12.164:8000/udp/239.77.1.76:5146
+CCTV-16 4K,http://58.252.12.164:8000/udp/239.77.1.98:5146
+CCTV-17,http://58.252.12.164:8000/udp/239.77.1.121:5146
+CCTV-17,http://58.252.12.164:8000/udp/239.77.0.198:5146
+CCTV-4K 4K,http://58.252.12.164:8000/udp/239.77.0.194:5146
+CCTV-4K 4K50p,http://58.252.12.164:8000/udp/239.77.0.174:5146
+
+🇨🇳 卫/视,#genre#
+湖南卫视,http://58.252.12.164:8000/udp/239.77.1.5:5146
+湖南卫视,http://58.252.12.164:8000/udp/239.77.1.129:5146
+湖南卫视,http://58.252.12.164:8000/udp/239.77.0.88:5146
+湖南卫视,http://58.252.12.164:8000/udp/239.77.0.127:5146
+浙江卫视,http://58.252.12.164:8000/udp/239.77.1.33:5146
+浙江卫视 ,http://58.252.12.164:8000/udp/239.77.1.150:5146
+浙江卫视,http://58.252.12.164:8000/udp/239.77.0.89:5146
+浙江卫视 ,http://58.252.12.164:8000/udp/239.77.0.125:5146
+江苏卫视,http://58.252.12.164:8000/udp/239.77.1.18:5146
+江苏卫视 ,http://58.252.12.164:8000/udp/239.77.1.149:5146
+江苏卫视,http://58.252.12.164:8000/udp/239.77.0.90:5146
+江苏卫视 ,http://58.252.12.164:8000/udp/239.77.0.126:5146
+东方卫视,http://58.252.12.164:8000/udp/239.77.1.218:5146
+东方卫视 ,http://58.252.12.164:8000/udp/239.77.1.156:5146
+东方卫视,http://58.252.12.164:8000/udp/239.77.0.98:5146
+安徽卫视,http://58.252.12.164:8000/udp/239.77.1.92:5146
+安徽卫视 ,http://58.252.12.164:8000/udp/239.77.1.157:5146
+安徽卫视,http://58.252.12.164:8000/udp/239.77.0.183:5146
+北京卫视,http://58.252.12.164:8000/udp/239.77.1.4:5146
+北京卫视,http://58.252.12.164:8000/udp/239.77.1.151:5146
+北京卫视,http://58.252.12.164:8000/udp/239.77.0.91:5146
+天津卫视,http://58.252.12.164:8000/udp/239.77.1.141:5146
+天津卫视,http://58.252.12.164:8000/udp/239.77.1.182:5146
+天津卫视,http://58.252.12.164:8000/udp/239.77.0.97:5146
+天津卫视,http://58.252.12.164:8000/udp/239.77.0.131:5146
+山东卫视,http://58.252.12.164:8000/udp/239.77.1.142:5146
+山东卫视 ,http://58.252.12.164:8000/udp/239.77.1.153:5146
+山东卫视,http://58.252.12.164:8000/udp/239.77.0.94:5146
+山东卫视 ,http://58.252.12.164:8000/udp/239.77.0.132:5146
+江西卫视,http://58.252.12.164:8000/udp/239.77.1.219:5146
+江西卫视,http://58.252.12.164:8000/udp/239.77.0.149:5146
+湖北卫视,http://58.252.12.164:8000/udp/239.77.1.93:5146
+湖北卫视,http://58.252.12.164:8000/udp/239.77.1.174:5146
+湖北卫视,http://58.252.12.164:8000/udp/239.77.0.95:5146
+湖北卫视,http://58.252.12.164:8000/udp/239.77.0.128:5146
+辽宁卫视,http://58.252.12.164:8000/udp/239.77.1.103:5146
+辽宁卫视,http://58.252.12.164:8000/udp/239.77.0.123:5146
+辽宁卫视 ,http://58.252.12.164:8000/udp/239.77.0.161:5146
+黑龙江卫视,http://58.252.12.164:8000/udp/239.77.1.6:5146
+黑龙江卫视,http://58.252.12.164:8000/udp/239.77.1.179:5146
+黑龙江卫视,http://58.252.12.164:8000/udp/239.77.0.93:5146
+黑龙江卫视,http://58.252.12.164:8000/udp/239.77.0.124:5146
+贵州卫视,http://58.252.12.164:8000/udp/239.77.1.221:5146
+贵州卫视,http://58.252.12.164:8000/udp/239.77.0.230:5146
+四川卫视,http://58.252.12.164:8000/udp/239.77.1.215:5146
+四川卫视,http://58.252.12.164:8000/udp/239.77.0.159:5146
+四川卫视 ,http://58.252.12.164:8000/udp/239.77.0.163:5146
+河南卫视,http://58.252.12.164:8000/udp/239.77.1.229:5146
+河南卫视,http://58.252.12.164:8000/udp/239.77.0.17:5146
+云南卫视,http://58.252.12.164:8000/udp/239.253.43.37:5146
+云南卫视,http://58.252.12.164:8000/udp/239.253.43.100:5146
+重庆卫视,http://58.252.12.164:8000/udp/239.77.1.162:5146
+重庆卫视 ,http://58.252.12.164:8000/udp/239.77.1.210:5146
+重庆卫视,http://58.252.12.164:8000/udp/239.77.0.182:5146
+河北卫视,http://58.252.12.164:8000/udp/239.77.1.214:5146
+河北卫视,http://58.252.12.164:8000/udp/239.77.0.148:5146
+东南卫视,http://58.252.12.164:8000/udp/239.77.1.104:5146
+东南卫视,http://58.252.12.164:8000/udp/239.77.0.146:5146
+广西卫视,http://58.252.12.164:8000/udp/239.253.43.36:5146
+广西卫视,http://58.252.12.164:8000/udp/239.77.0.139:5146
+吉林卫视,http://58.252.12.164:8000/udp/239.77.1.111:5146
+吉林卫视,http://58.252.12.164:8000/udp/239.77.0.150:5146
+陕西卫视,http://58.252.12.164:8000/udp/239.77.0.68:5146
+陕西卫视,http://58.252.12.164:8000/udp/239.77.1.54:5146
+山西卫视,http://58.252.12.164:8000/udp/239.77.0.69:5146
+山西卫视,http://58.252.12.164:8000/udp/239.77.1.74:5146
+内蒙古卫视,http://58.252.12.164:8000/udp/239.77.0.70:5146
+内蒙古卫视,http://58.252.12.164:8000/udp/239.77.1.55:5146
+青海卫视,http://58.252.12.164:8000/udp/239.77.0.71:5146
+青海卫视,http://58.252.12.164:8000/udp/239.77.1.70:5146
+海南卫视,http://58.252.12.164:8000/udp/239.253.43.35:5146
+海南卫视,http://58.252.12.164:8000/udp/239.253.43.101:5146
+宁夏卫视,http://58.252.12.164:8000/udp/239.77.0.73:5146
+宁夏卫视,http://58.252.12.164:8000/udp/239.77.1.47:5146
+西藏卫视,http://58.252.12.164:8000/udp/239.77.0.74:5146
+西藏卫视,http://58.252.12.164:8000/udp/239.77.1.49:5146
+新疆卫视,http://58.252.12.164:8000/udp/239.77.0.75:5146
+新疆卫视,http://58.252.12.164:8000/udp/239.77.1.53:5146
+甘肃卫视,http://58.252.12.164:8000/udp/239.77.0.189:5146
+兵团卫视,http://58.252.12.164:8000/udp/239.77.0.77:5146
+兵团卫视,http://58.252.12.164:8000/udp/239.77.1.80:5146
+厦门卫视,http://58.252.12.164:8000/udp/239.77.0.96:5146
+三沙卫视,http://58.252.12.164:8000/udp/239.253.43.113:5146
+延边卫视,http://58.252.12.164:8000/udp/239.77.0.10:5146
+延边卫视,http://58.252.12.164:8000/udp/239.77.1.99:5146
+
 🇨🇳 央视,#genre#,
-CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
-CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
-CCTV4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-CCTV5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-CCTV5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-CCTV7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
-CCTV8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
-CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
-CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
-CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
-CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
-CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-CCTV15,http://ottrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
-CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+CGTN法语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226520/index.m3u8
+CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
+CGTN西班牙语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226431/index.m3u8
+CGTN阿拉伯语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8
+CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
+CCTV-1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+CCTV-2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
+CCTV-3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
+CCTV-4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
+CCTV-5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+CCTV-5+,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+CCTV-6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+CCTV-7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+CCTV-8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+CCTV-9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+CCTV-10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
+CCTV-11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
+CCTV-12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+CCTV-13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
+CCTV-14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
+CCTV-15,http://ottrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
+CCTV-16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+CCTV-17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 🇨🇳 卫视,#genre#
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
@@ -53,7 +217,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 
 🇨🇳 数字,#genre#
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+CHC电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -61,11 +225,18 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04#http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
+CHC电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04#http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4#http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
 黑莓电影,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8#http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
+黑莓电影,http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
+黑莓电影,http://[2409:8087:1a01:df::4036]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
+黑莓电影,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
+黑莓电影,http://[2409:8087:1a01:df::4060]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
+黑莓电影 ,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓电影,http://[2409:8087:74F1:0021::002f]/270000001128/9900000095/index.m3u8?
 
 🇨🇳 电影,#genre#
 电影_救援,http://live.metshop.top/huya/21059594?cdn=alicdn
@@ -122,69 +293,25 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 电影_怪兽系列,http://live.metshop.top/huya/21059554?cdn=alicdn
 搞笑_陈翔六点半,http://live.metshop.top/huya/11274154?cdn=alicdn
 
-🇨🇳 百事,#genre#
-五星体育,http://223.109.210.49/mmst.v.smtcdns.net/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
+🇨🇳 体育,#genre#
+五星体育1,http://223.109.210.49/mmst.v.smtcdns.net/lnbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育2,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT
-五星体育,http://111.20.35.108:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-五星体育,http://[2409:8087:5e08:24::14]:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3&HlsProfileId=
-
-咪咕直播-1,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
-咪咕直播-2,http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8
-咪咕直播-3,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225617/index.m3u8
-咪咕直播-4,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
-咪咕直播-5,http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
-咪咕直播-6,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
-咪咕直播-7,http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
-咪咕直播-8,http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
-咪咕直播-9,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
-咪咕直播-10,http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
-咪咕直播-11,http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
-咪咕直播-12,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
-咪咕直播-13,http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
-咪咕直播-14,http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
-咪咕直播-15,http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
-咪咕直播-16,http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
-咪咕直播-17,http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
-咪咕直播-18,http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
-咪咕直播-19,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
-咪咕直播-20,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
-咪咕直播-21,http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
-咪咕直播-22,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
-咪咕直播-23,http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
-咪咕直播-24,http://[2409:8087:1a01:df::4070]/PLTV/88888888/224/3221225741/index.m3u8
-咪咕直播-25,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225745/index.m3u8
-咪咕直播-26,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225747/index.m3u8
-咪咕直播-27,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225749/index.m3u8
-咪咕直播-28,http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
-咪咕直播-29,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
-咪咕直播-30,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
-咪咕直播-31,http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
-咪咕直播-32,http://[2409:8087:1a01:df::4039]/PLTV/88888888/224/3221225762/index.m3u8
-咪咕直播-33,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225764/index.m3u8
-咪咕直播-34,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225766/index.m3u8
-咪咕直播-35,http://[2409:8087:1a01:df::4050]/PLTV/88888888/224/3221225768/index.m3u8
-咪咕直播-36,http://[2409:8087:1a01:df::4078]/PLTV/88888888/224/3221225782/index.m3u8
-咪咕直播-37,http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕直播-38,http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
-咪咕直播-39,http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
-咪咕直播-40,http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
-咪咕直播-41,http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
-咪咕直播-42,http://[2409:8087:1a01:df::4079]/PLTV/88888888/224/3221225904/index.m3u8
-咪咕直播-43,http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
-咪咕直播-44,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225906/index.m3u8
-咪咕直播-45,http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
-咪咕直播-46,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
-咪咕直播-47,http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
-咪咕直播-48,http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
-咪咕直播-49,http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
-咪咕直播-50,http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-咪咕直播-51,http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
-咪咕直播-52,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播-53,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播-54,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播-55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕直播-56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+五星体育3,http://111.20.35.108:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育4,http://[2409:8087:5e08:24::14]:6610/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3&HlsProfileId=
+咪咕视频1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/1.m3u8
+咪咕视频2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/1.m3u8
+咪咕视频3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
+咪咕视频4,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
+咪咕视频5,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8
+咪咕视频6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8
+咪咕视频7,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226469/index.m3u8
+咪咕视频8,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
+咪咕直播-1,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕直播-2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播-3,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播-4,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+咪咕直播-5,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 🇨🇳 iHOT,#genre#
 iHOT爱院线,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
