@@ -101,10 +101,9 @@ TW
 
 正常维护.https://ghproxy.net/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
 
-正常维护.https://fastraw.ixnic.net/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/kk.txt
 
-正常维护.https://fastraw.ixnic.net/asdjkl6/zx/main/iptv/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
+正常维护https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/l.txt
 
-正常维护.https://cdn.jsdelivr.us/gh/asdjkl6/tv@tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/kk.txt
 
-正常维护.https://cdn.jsdelivr.us/gh/asdjkl6/tv@tv/.m3u/%E6%95%B4%E5%A5%97%E7%9B%B4%E6%92%AD%E6%BA%90/%E6%B5%8B%E8%AF%95/l.txt
+正常维护https://jsd.proxy.aks.moe/gh/asdjkl6/tv@tv/.m3u/%e6%95%b4%e5%a5%97%e7%9b%b4%e6%92%ad%e6%ba%90/%e6%b5%8b%e8%af%95/%e6%95%b4%e5%a5%97%e7%9b%b4%e6%92%ad%e6%ba%90/l.txt
+
